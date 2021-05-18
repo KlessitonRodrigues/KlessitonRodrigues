@@ -1,13 +1,14 @@
-### Hi there 👋
+# 📚 Current learning...
+![react](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/react-logo.png) React
+![webpack](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/webpack-logo.png) Webpack
 
-## Current learning...
-React ![react](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/react-logo.png) 
-Webpack ![webpack](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/webpack-logo.png)
-
-Nodej ![nodejs](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/nodejs-logo.png)
-Express ![express](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/express-logo.png)
+![nodejs](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/nodejs-logo.png) Nodejs
+![express](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/express-logo.png) Express
 
 
+# 📪 My links...
+[Linkedin](http://linkedin.com/in/klessitonrds)
+[Facebook](http://fb.com/klessitomrodrigues)
 
 
 
