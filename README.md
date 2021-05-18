@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## Current learning...
+React ![react](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/react.png) 
+Webpack ![webpack](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/webpack.png)
+
+Nodej ![nodejs](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/nodejs.png)
+Express ![express](https://github.com/KlessitonRodrigues/KlessitonRodrigues/blob/main/assets/img/express.png)
+
+
+
+
+
+
 <!--
 **KlessitonRodrigues/KlessitonRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
