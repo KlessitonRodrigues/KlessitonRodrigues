@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-I'm Klessiton Rodrigues, Fullstack developer
+I'm Klessiton Rodrigues, Fullstack developer 💻!
 
-For more information please check my profile page.
+For more information, check out my profile page.
 
 [Profile Page](https://profile.klessitonrds.com)
