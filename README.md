@@ -4,4 +4,4 @@
 
 For more information, check out my profile page.
 
-[Profile Page](https://profile.klessitonrds.com)
+🎓 [Profile Page](https://profile.klessitonrds.com)
